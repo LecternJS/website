@@ -1,6 +1,6 @@
-# discord.js website
+# a copy of the discordjs website because we are using the same docgenerator as them so why not
 
-> The website housing documentation for discord.js
+> The website housing documentation for lecternjs and discord.js
 
 ## Project setup
 ```
